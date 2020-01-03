@@ -1,0 +1,6 @@
+natours-postman-collection/
+
+node_modules/
+*.env
+dev-data/
+.cache/
