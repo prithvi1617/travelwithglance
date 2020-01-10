@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prithvi1617/monster-finder/static/css/main.19f9ac6b.chunk.css",
+    "main.js": "/prithvi1617/monster-finder/static/js/main.4fe66f98.chunk.js",
+    "main.js.map": "/prithvi1617/monster-finder/static/js/main.4fe66f98.chunk.js.map",
+    "runtime-main.js": "/prithvi1617/monster-finder/static/js/runtime-main.604afe03.js",
+    "runtime-main.js.map": "/prithvi1617/monster-finder/static/js/runtime-main.604afe03.js.map",
+    "static/js/2.d8d20882.chunk.js": "/prithvi1617/monster-finder/static/js/2.d8d20882.chunk.js",
+    "static/js/2.d8d20882.chunk.js.map": "/prithvi1617/monster-finder/static/js/2.d8d20882.chunk.js.map",
+    "index.html": "/prithvi1617/monster-finder/index.html",
+    "precache-manifest.4dcc5504ff6c74e44c251e5b6dda396f.js": "/prithvi1617/monster-finder/precache-manifest.4dcc5504ff6c74e44c251e5b6dda396f.js",
+    "service-worker.js": "/prithvi1617/monster-finder/service-worker.js",
+    "static/css/main.19f9ac6b.chunk.css.map": "/prithvi1617/monster-finder/static/css/main.19f9ac6b.chunk.css.map",
+    "static/js/2.d8d20882.chunk.js.LICENSE": "/prithvi1617/monster-finder/static/js/2.d8d20882.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.604afe03.js",
+    "static/js/2.d8d20882.chunk.js",
+    "static/css/main.19f9ac6b.chunk.css",
+    "static/js/main.4fe66f98.chunk.js"
+  ]
+}
